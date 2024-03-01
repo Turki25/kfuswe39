@@ -1,0 +1,45 @@
+
+>org.TooMuchMethodsExample#isValidPassword(Ljava/lang/String;)Z]
+S/C:/Users/Turki/IdeaProjects/2skfuwe39/src/main/java/org/TooMuchMethodsExample.java8 8(#"3*¦
+29# 9(+yw
+9# 9(4	
+%1int"java.lang.String#length()I*:
+
+__unknown_file (
+
+passwordjava.lang.String2length()–
+“
+9# 9(9
+%2boolean"	__compare*"
+
+__unknown_file (
+>=*'
+
+__unknown_file (
+	
+%1int* 
+
+__unknown_file (2*
+1*Ã
+39 9(«
+¨
+9 9(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*:
+
+__unknown_file (
+
+passwordjava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*!
+19 9(:"
+9 9(:
+"":(
+8$ 8(3
+passwordjava.lang.StringB
+org.TooMuchMethodsExampleX

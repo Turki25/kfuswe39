@@ -1,0 +1,6 @@
+org.MagicNumberExample#main([Ljava/lang/String;)V
+org.MagicNumberExample#<init>()V
+org.MagicNumberExample#instance-init#
+==
+calculateCircleArea org.MagicNumberExample#calculateCircleArea(I)D
+println java.io.PrintStream#println(Ljava/lang/String;)V

@@ -1,0 +1,7 @@
+organization=turki25
+projectKey=kfuswe439
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53111
+dashboardUrl=https://sonarcloud.io/dashboard?id=kfuswe439
+ceTaskId=AY38J7pq4lOopk4so1JK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY38J7pq4lOopk4so1JK

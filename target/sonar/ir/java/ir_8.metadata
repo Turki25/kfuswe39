@@ -1,0 +1,2 @@
+org.TooMuchMethodsExample#isValidPassword(Ljava/lang/String;)Z
+java.lang.String#length()I

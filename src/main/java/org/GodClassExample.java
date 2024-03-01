@@ -3,7 +3,7 @@ package org;
 import java.util.ArrayList;
 
 public class GodClassExample {
-
+//new
     public class DataProcessor {
         private ArrayList<String> data;
 

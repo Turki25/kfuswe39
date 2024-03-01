@@ -1,0 +1,5 @@
+org\GodClassExample.class
+org\MagicNumberExample.class
+org\TooMuchMethodsExample.class
+org\Main.class
+org\GodClassExample$DataProcessor.class

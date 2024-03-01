@@ -1,0 +1,2 @@
+org.TooMuchMethodsExample#isValidEmail(Ljava/lang/String;)Z
+java.lang.String#contains(Ljava/lang/CharSequence;)Z

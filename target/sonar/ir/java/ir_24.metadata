@@ -1,0 +1,5 @@
+org.TooMuchMethodsExample#main([Ljava/lang/String;)V
+org.TooMuchMethodsExample#<init>()V
+org.TooMuchMethodsExample#instance-init#
+==
+processUserData org.TooMuchMethodsExample#processUserData(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V

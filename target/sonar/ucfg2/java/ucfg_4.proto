@@ -1,0 +1,45 @@
+
+>org.TooMuchMethodsExample#isValidUsername(Ljava/lang/String;)Z]
+S/C:/Users/Turki/IdeaProjects/2skfuwe39/src/main/java/org/TooMuchMethodsExample.java0 0(#"3*¥
+21# 1(+yw
+1# 1(4	
+%1int"java.lang.String#length()I*:
+
+__unknown_file (
+
+usernamejava.lang.String2length()•
+’
+1# 1(8
+%2boolean"	__compare*!
+
+__unknown_file (
+>*'
+
+__unknown_file (
+	
+%1int* 
+
+__unknown_file (2*
+1*Ã
+31 1(«
+¨
+1 1(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*:
+
+__unknown_file (
+
+usernamejava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*!
+11 1(9"
+1 1(9
+"":(
+0$ 0(3
+usernamejava.lang.StringB
+org.TooMuchMethodsExampleX

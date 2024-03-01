@@ -1,0 +1,3 @@
+org.TooMuchMethodsExample#encryptSensitiveData(Ljava/lang/String;)V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

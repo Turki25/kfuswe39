@@ -1,0 +1,36 @@
+
+;org.TooMuchMethodsExample#isValidEmail(Ljava/lang/String;)Z]
+S/C:/Users/Turki/IdeaProjects/2skfuwe39/src/main/java/org/TooMuchMethodsExample.java4 4( "3*ç
+25  5(%ÒÏ
+5  5(3
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*7
+
+__unknown_file (
+
+emailjava.lang.String*!
+
+__unknown_file (
+@2"contains(Ljava/lang/CharSequence;)*
+1*À
+35 5(¨
+¥
+5 5(
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*7
+
+__unknown_file (
+
+emailjava.lang.String*"
+
+__unknown_file (
+""*
+2
+1*!
+15 5(4"
+5 5(4
+"":%
+4! 4(-
+emailjava.lang.StringB
+org.TooMuchMethodsExampleX
